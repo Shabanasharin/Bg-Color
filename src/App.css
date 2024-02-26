@@ -1,0 +1,36 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  overflow-x: hidden;
+}
+.button{
+  width: 80px;
+  height: 40px;
+  background-color: #ffffff9a;
+  color: white;
+}
+.inner-box{
+  padding: 60px;
+}
+.Header{
+  /* margin-top: 70px; */
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+
+}
+.btn-1:hover{
+ background-color: green;
+}
+.btn-2:hover{
+  background-color: blue;
+}
+.btn-3:hover{
+  background-color: orange;
+ }
+ .btn-4:hover{
+  background-color: purple;
+ }
+ .btn-5:hover{
+  background-color:brown;
+ }
